@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercetch",
+        "uuid": 23774868,
+        "checksum": "xji78r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
